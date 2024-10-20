@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am pursuing my Masters in Robotics Engineering at Johns Hopkins University. My interest lies in exploring and learning novel methods in data science and AI.
+I am pursuing my Masters in Robotics Engineering at Johns Hopkins University.
 <!--
 **Bhupendra-Mahar/Bhupendra-Mahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
